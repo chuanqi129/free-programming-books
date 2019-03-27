@@ -7,14 +7,16 @@
 * [Clojure](#clojure)
 * [CoffeeScript](#coffeescript)
 * [Erlang](#erlang)
-* [F#](#f-sharp)
 * [Git](#git)
+* [GLSL](#glsl)
 * [Go](#go)
 * [Haskell](#haskell)
 * [HTML / CSS](#html--css)
 * [Java](#java)
 * [Javascript](#javascript)
+  * [Angular.js](#angularjs)
 * [Language Agnostic](#language-agnostic)
+  * [Operating Systems](#operating-systems)
 * [Lisp](#lisp)
 * [MATLAB](#matlab)
 * [Node](#node)
@@ -23,7 +25,6 @@
 * [Ocaml](#ocaml)
 * [PHP](#php)
 * [Python](#python)
-* [R](#r)
 * [Ruby](#ruby)
 * [Scala](#scala)
 * [SQL](#sql)
@@ -32,6 +33,7 @@
 
 ### Bash
 
+* [Help messages will explain everything](https://explainshell.com)
 * [Learn Shell Programming](http://www.learnshell.org)
 
 
@@ -52,7 +54,7 @@
 
 ### Clojure
 
-* [4Clojure - Koans](https://www.4clojure.com)
+* [4Clojure - Koans](http://www.4clojure.com)
 * [Clojure Koans](http://clojurekoans.com)
 * [ClojureScript Koans](http://clojurescriptkoans.com)
 * [Try Clojure](http://www.tryclj.com)
@@ -69,16 +71,16 @@
 * [Try Erlang](http://www.tryerlang.org)
 
 
-### F Sharp
-
-* [Try F#](http://www.tryfsharp.org)
-
-
 ### Git
 
 * [Githug](https://github.com/Gazler/githug) (Tutorial in shell)
 * [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
 * [Try Git](http://try.github.io)
+
+
+### GLSL
+
+* [The Book of Shaders](https://thebookofshaders.com)
 
 
 ### Go
@@ -105,6 +107,7 @@
 ### Java
 
 * [CodingBat code practice](http://codingbat.com/java)
+* [Java at Codecademy](https://www.codecademy.com/courses/learn-java)
 * [Learn Java](http://www.learnjavaonline.org)
 * [Learneroo Java tutorial](https://www.learneroo.com/modules/11)
 
@@ -124,11 +127,25 @@
 * [Try jQuery](http://try.jquery.com)
 
 
+#### Angular.js
+
+* [Angular Basics](http://www.angularjsbook.com)
+* [AngularJS - Step by Logical Step](http://nicholasjohnson.com/angular-book/)
+* [egghead.io: Learn AngularJS with Tutorial Videos & Training](https://egghead.io)
+* [Learn AngularJS with free interactive lessons](http://www.learn-angular.org)
+
+
 ### Language Agnostic
 
 * [CodeCombat](http://codecombat.com) - Python, JavaScript, CoffeeScript, Clojure, Lua, Io
 * [Codility](https://codility.com/programmers/)
 * [Python Tutor](http://pythontutor.com) - Python, Java, JavaScript, TypeScript, Ruby, C, C++
+* [The Fullstack Tutorial for GraphQL](https://www.howtographql.com)
+
+
+#### Operating systems
+
+* [Learning operating system development using Linux kernel and Raspberry Pi](https://github.com/s-matyukevich/raspberry-pi-os) - Sergey Matyukevich (:construction: *in process*)
 
 
 ### Lisp
@@ -173,25 +190,14 @@
 * [Codecademy Python course](https://www.codecademy.com/learn/python)
 * [How to Think Like a Computer Scientist: Learning with Python, Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html)
 * [Learn Python](http://www.learnpython.org)
+* [Learn Python Step by Step](http://www.techbeamers.com/python-tutorial-step-by-step)
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
-
-
-### R
-
-* [Try R](http://tryr.codeschool.com)
-
-
-### Racket
-
-* [Try Racket](http://try-racket.org)
 
 
 ### Ruby
 
 * [CodeCademy Ruby](https://www.codecademy.com/learn/ruby)
-* [Codeschool Ruby paths](https://www.codeschool.com/paths/ruby)
 * [Ruby Koans](http://www.rubykoans.com)
-* [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com)
 * [The Odin Project](http://www.theodinproject.com)
 * [Try Ruby](http://tryruby.org)
 
@@ -199,11 +205,17 @@
 ### Scala
 
 * [A Tour of Scala - an interactive scala tutorial](https://scalatutorials.com/tour/)
-* [Scala Tour](http://www.scala-tour.com)
+* [Scala Exercises](https://www.scala-exercises.org) 
+
+
+### Selenium
+
+* [Selenium Tutorial - Web Automation](http://www.techbeamers.com/selenium-webdriver-tutorial)
 
 
 ### SQL
 
+* [SQL at Codecademy](https://www.codecademy.com/courses/learn-sql)
 * [SQLBolt](http://sqlbolt.com)
 
 
